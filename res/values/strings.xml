@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Indicator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="recommend">推荐</string>
+    <string name="shoucang">收藏</string>
+    <string name="message">短信</string>
+
+</resources>
